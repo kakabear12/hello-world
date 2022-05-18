@@ -4,7 +4,7 @@
 * A Hello wolrd Java project
 * ...
 
-###Screen Shot
+### Screen Shot
 ![My Source](https://github.com/kakabear12/hello-world/blob/main/images/Source.png)
 
 
